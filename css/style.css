@@ -1,0 +1,27 @@
+header {
+    background-color: cornflowerblue;
+    background-image: url(../img/pattern.png);
+    background-size:contain;
+    padding: 30px 10px 20px;
+}
+
+header img{
+    height: 50px;
+}
+
+.sottotitolo span {
+    color:aqua
+
+}
+
+.paragrafo1 span {
+    background-color: yellow;
+}
+
+.paragrafo2 span {
+    background-color: yellow;
+}
+
+ul {
+    padding-left: 15px ; 
+}
